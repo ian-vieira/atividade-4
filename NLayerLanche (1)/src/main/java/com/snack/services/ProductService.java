@@ -8,7 +8,6 @@ import java.nio.file.*;
 import java.util.Arrays;
 
 public class ProductService {
-    // Usa diretório temporário do sistema para salvar imagens
     private String filePath;
 
     public ProductService() {
